@@ -7327,7 +7327,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Regulator_parts:TentChoke"
+		(property "Footprint" "BasicPS_parts:TentChoke"
 			(at 135.636 93.472 0)
 			(effects
 				(font

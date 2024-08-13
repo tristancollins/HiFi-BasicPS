@@ -98,7 +98,7 @@
 		(descr "Resistor, Axial_DIN0414 series, Axial, Horizontal, pin pitch=20.32mm, 2W, length*diameter=11.9*4.5mm^2, http://www.vishay.com/docs/20128/wkxwrx.pdf")
 		(tags "Resistor Axial_DIN0414 series Axial Horizontal pin pitch 20.32mm 2W length 11.9mm diameter 4.5mm")
 		(property "Reference" "R5"
-			(at 10.16 -3.37 360)
+			(at 10.16 -3.37 0)
 			(layer "F.SilkS")
 			(uuid "441e60b6-1d65-461a-a8ab-4ed4f3980ed8")
 			(effects
@@ -109,7 +109,7 @@
 			)
 		)
 		(property "Value" "220r 2W"
-			(at 10.16 3.37 360)
+			(at 10.16 3.37 0)
 			(layer "F.Fab")
 			(uuid "e5b4036f-bea0-4d3d-9769-aca215b1a5a7")
 			(effects
@@ -161,7 +161,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f20eb97f-4164-4790-8995-747015ba38e0")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.44 0)
@@ -324,7 +324,7 @@
 			(uuid "d7729232-0f31-4fdb-bff2-b2a88663306b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 10.16 0 360)
+			(at 10.16 0 0)
 			(layer "F.Fab")
 			(uuid "64c26281-d401-4816-bde9-edf9c2a8e530")
 			(effects
@@ -433,7 +433,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005c02902a")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.77 1.055)
@@ -688,7 +688,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005c027bcd")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.77 -1.07)
@@ -943,7 +943,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/00000000-0000-0000-0000-00005c029240")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.75 -8.081)
@@ -3878,7 +3878,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/00000000-0000-0000-0000-00005c02768b")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.04 -4.85)
@@ -4434,7 +4434,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/4b844c75-4f73-4339-975c-c7a632d82fc0")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.7 2.98)
@@ -4990,7 +4990,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/fc1acd45-cd80-4c4b-bc77-a439a224678f")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.62 2.98)
@@ -5548,7 +5548,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/00000000-0000-0000-0000-00005c0a19e6")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -5660,7 +5660,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/00000000-0000-0000-0000-00005c0a2014")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -5772,7 +5772,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/00000000-0000-0000-0000-00005c0a1f7e")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -5882,7 +5882,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005c029098")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -6154,7 +6154,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/00000000-0000-0000-0000-00005c0fd068")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -6330,7 +6330,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/00000000-0000-0000-0000-00005c0fdc42")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -6506,7 +6506,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/00000000-0000-0000-0000-00005c0fd5f3")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -6682,7 +6682,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/00000000-0000-0000-0000-00005c0fdb7e")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -6858,7 +6858,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/00000000-0000-0000-0000-00005c03042b")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 -2.54)
@@ -7076,7 +7076,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/00000000-0000-0000-0000-00005c0277a2")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.04 -4.85)
@@ -7785,7 +7785,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/00000000-0000-0000-0000-00005c087d2b")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -7898,7 +7898,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005c02a11d")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.44 0)
@@ -8173,7 +8173,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/8a42a7f1-2420-4aea-8fd6-6048ea23973c")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.75 -8.081)
@@ -11111,7 +11111,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/3df486c8-f595-49e7-a0b5-8232eb27fada")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.65 3.01)
@@ -11671,7 +11671,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/bb3f3542-6639-4dfe-9ada-813b9971c964")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.73 3.01)
@@ -12231,7 +12231,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/00000000-0000-0000-0000-00005c028904")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.73 3.01)
@@ -12791,7 +12791,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005c02a7a3")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -13066,7 +13066,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005c02a1ac")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -13341,7 +13341,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/00000000-0000-0000-0000-00005c027d2a")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5 -11.081)
@@ -17439,7 +17439,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/46ac10e6-d005-41cf-9974-7ee348bc1f2b")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.44 0)
@@ -17714,7 +17714,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005c0296cc")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.44 0)
@@ -17989,7 +17989,7 @@
 		(property ki_fp_filters "D*Bridge* D*Rectifier*")
 		(path "/00000000-0000-0000-0000-00005c09f01d")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.1 13.8)
@@ -18213,7 +18213,7 @@
 		(descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
 		(tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
 		(property "Reference" "D1"
-			(at 5.08 -2.47 360)
+			(at 5.08 -2.47 0)
 			(layer "F.SilkS")
 			(uuid "4cdadbe4-0d29-4344-8e16-925fa08a7774")
 			(effects
@@ -18224,7 +18224,7 @@
 			)
 		)
 		(property "Value" "1N4007"
-			(at 5.08 2.47 360)
+			(at 5.08 2.47 0)
 			(layer "F.Fab")
 			(uuid "fa4f73d9-11fc-4a7c-a53f-048afcfa9465")
 			(effects
@@ -18302,7 +18302,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/00000000-0000-0000-0000-00005c02910f")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.82 0)
@@ -18525,7 +18525,7 @@
 			(uuid "5d3ef442-2a59-43b3-9282-0217791e920f")
 		)
 		(fp_text user "K"
-			(at 0 -2.1 360)
+			(at 0 -2.1 0)
 			(layer "F.SilkS")
 			(uuid "e76e625d-7446-4efc-b44a-78bf72dfe4f1")
 			(effects
@@ -18536,7 +18536,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 5.47 0 360)
+			(at 5.47 0 0)
 			(layer "F.Fab")
 			(uuid "0d24ef57-efa5-44ee-bfa3-beb19575bf53")
 			(effects
@@ -18547,7 +18547,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 -2.1 360)
+			(at 0 -2.1 0)
 			(layer "F.Fab")
 			(uuid "d878f9c0-c6b2-458d-b29e-5a5d750f9881")
 			(effects
@@ -18661,7 +18661,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/00000000-0000-0000-0000-00005c02a2c0")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.29 -1.236)
@@ -18903,7 +18903,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/00000000-0000-0000-0000-00005c02a368")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.909698 -2.315)
@@ -20578,7 +20578,7 @@
 		(descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
 		(tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
 		(property "Reference" "D2"
-			(at 5.08 -2.47 360)
+			(at 5.08 -2.47 0)
 			(layer "F.SilkS")
 			(uuid "58b5f2df-8522-480c-924c-1a78d2aee07e")
 			(effects
@@ -20589,7 +20589,7 @@
 			)
 		)
 		(property "Value" "1N4007"
-			(at 5.08 2.47 360)
+			(at 5.08 2.47 0)
 			(layer "F.Fab")
 			(uuid "47d1b99b-7f7d-4a98-9a0c-236b6c108deb")
 			(effects
@@ -20667,7 +20667,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/00000000-0000-0000-0000-00005c0291de")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.82 0)
@@ -20890,7 +20890,7 @@
 			(uuid "a2a50139-3c09-4581-a39d-5821bd22d0ac")
 		)
 		(fp_text user "K"
-			(at 0 -2.1 360)
+			(at 0 -2.1 0)
 			(layer "F.SilkS")
 			(uuid "786d30fe-8a47-44da-beb1-8482e38408a6")
 			(effects
@@ -20901,7 +20901,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 -2.1 360)
+			(at 0 -2.1 0)
 			(layer "F.Fab")
 			(uuid "59c82b1c-0671-4239-a1fd-54577fe43dfb")
 			(effects
@@ -20912,7 +20912,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 5.47 0 360)
+			(at 5.47 0 0)
 			(layer "F.Fab")
 			(uuid "cfb1a5cb-3a15-4eb6-ad88-b5496f72604e")
 			(effects
@@ -21026,7 +21026,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/6437be74-1be8-473b-903a-771e49dc64d9")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.75 -8.081)
@@ -23964,7 +23964,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/00000000-0000-0000-0000-00005c027dd8")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5 -11.081)
@@ -27999,7 +27999,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R2"
-			(at 5.08 -2.37 360)
+			(at 5.08 -2.37 0)
 			(layer "F.SilkS")
 			(uuid "3c7f2d24-896d-4b96-8197-a4168b8648a7")
 			(effects
@@ -28010,7 +28010,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 5.08 2.37 360)
+			(at 5.08 2.37 0)
 			(layer "F.Fab")
 			(uuid "f78b11c6-df00-4bf3-b757-9ef8e2df0772")
 			(effects
@@ -28062,7 +28062,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005c027ad9")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -28225,7 +28225,7 @@
 			(uuid "e03635ed-6f2e-49e3-bdae-a68130dde8a7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 5.08 0 360)
+			(at 5.08 0 0)
 			(layer "F.Fab")
 			(uuid "dd083a96-d76f-49f2-86a1-d8389f76cd3a")
 			(effects
@@ -28267,7 +28267,7 @@
 			)
 		)
 	)
-	(footprint "Regulator_parts:TentChoke"
+	(footprint "BasicPS_parts:TentChoke"
 		(layer "F.Cu")
 		(uuid "e9f7fe58-09fa-42f0-a539-66ba177353f9")
 		(at 71.1 82.4)
@@ -28275,7 +28275,7 @@
 			(at -5.08 10.16 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "cf95eddf-14fd-4359-a21c-66df65cc4139")
+			(uuid "57f71ccd-98af-47cd-815c-ab4e77ac3ef6")
 			(effects
 				(font
 					(size 1 1)
@@ -28287,7 +28287,7 @@
 			(at 0 5.08 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "4cf70230-68a0-4f0f-b9a1-c914260dacfb")
+			(uuid "85714625-3935-401e-bc6a-ec2d6cb87f0d")
 			(effects
 				(font
 					(size 1 1)
@@ -28295,12 +28295,12 @@
 				)
 			)
 		)
-		(property "Footprint" "Regulator_parts:TentChoke"
+		(property "Footprint" "BasicPS_parts:TentChoke"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d763e859-b388-4298-a5ea-0a703e8a083b")
+			(uuid "ae6b9898-9043-4a74-9c8c-b73bbd554408")
 			(effects
 				(font
 					(size 1 1)
@@ -28313,7 +28313,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "13997691-cd71-4729-ac36-13431dc39ea0")
+			(uuid "7f32087e-fdec-4c9e-9d7f-c93a28dacfe4")
 			(effects
 				(font
 					(size 1 1)
@@ -28326,7 +28326,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6b590969-2e71-463d-a9d1-a420923f2e20")
+			(uuid "811cd004-1ca3-46a0-9b2c-0a55d09e44ea")
 			(effects
 				(font
 					(size 1 1)
@@ -28337,7 +28337,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/53ed29cf-a011-4dda-85be-f8921ed6f162")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -6.4 -8)
@@ -28348,7 +28348,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "2641ae2d-d750-4ec7-bac4-a8de02eaef68")
+			(uuid "749720dd-f439-4f66-a303-fe1bc729de85")
 		)
 		(fp_rect
 			(start -6.4 -8)
@@ -28359,7 +28359,7 @@
 			)
 			(fill none)
 			(layer "B.CrtYd")
-			(uuid "8c5fb290-e3dd-4b79-b9b5-3495927714f1")
+			(uuid "7ca35abb-c0e7-4a76-813f-bfa17bede9b6")
 		)
 		(fp_rect
 			(start -6.4 -8)
@@ -28370,13 +28370,13 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "c5eac8c5-fe36-402c-b3c3-f2284e34f438")
+			(uuid "dd6c1806-e69c-4254-b815-0061d196de1f")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -2.54 -10.16 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "20226865-8337-4694-ab4b-dc15b17b15a1")
+			(uuid "2f72b953-0d6d-44d7-86e6-1a7e5066cef5")
 			(effects
 				(font
 					(size 1 1)
@@ -28393,7 +28393,7 @@
 			(net 5 "Net-(D1-K)")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "cddcc72c-ed5b-4779-a5a8-b44b624dcf22")
+			(uuid "6dd7d04c-697b-4d0f-b753-577a72df9f8a")
 		)
 		(pad "2" thru_hole circle
 			(at 14.2 0)
@@ -28404,7 +28404,7 @@
 			(net 8 "Net-(C4-Pad1)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "593b84dd-300d-4084-8a31-56e35aa04536")
+			(uuid "88892411-cb27-40fc-a8dd-ad14aa0cad28")
 		)
 	)
 	(footprint "Connector_Phoenix_MC_HighVoltage:PhoenixContact_MCV_1,5_2-G-5.08_1x02_P5.08mm_Vertical"
@@ -28477,7 +28477,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/00000000-0000-0000-0000-00005c02a569")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.73 3.01)
@@ -29042,7 +29042,7 @@
 		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/a1e25897-bc6b-4098-b573-e14e31685274")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files)
 		(net_tie_pad_groups "1, 2")
@@ -29329,7 +29329,7 @@
 		)
 		(path "/00000000-0000-0000-0000-00005c2178d4")
 		(sheetname "Root")
-		(sheetfile "Regulator.kicad_sch")
+		(sheetfile "BasicPS.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files)
 		(fp_line
